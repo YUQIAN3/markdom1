@@ -14,3 +14,5 @@
   ```javascript
   console.log("hello")
   ```
+  百度的网站是[百度](http://www.baidu.com)
+  ![照片](3.jpg)
